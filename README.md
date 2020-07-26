@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Python, java ,cpp , web development**
 
+- 🌱 I’m currently learning ...
 - 📫 How to reach me **[Send a message!](https://www.linkedin.com/in/virendra-patankar-104758144/)**
 
 - ⚡ Fun fact **Everthing is fun fact happening arround the world**
 
-- :smile: lets share it and also be part of it[here](https://gist.github.com/veer11997).
+- :smile: lets share it and also be part of it [here](https://gist.github.com/veer11997).
