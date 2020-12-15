@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQESa8aKUWIH1Q/profile-displaybackgroundimage-shrink_200_800/0/1600438987808?e=1613606400&v=beta&t=aU0S9h0w78hquOhPpJX5WZywUDD9NhHXnWFtyblk3Dc)]
 
 <!--
 **veer11997/veer11997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,13 +21,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Python, java ,cpp , web development**
 
 - 🌱 I’m currently learning ...
-- 📫 How to reach me **[Send a message!](https://www.linkedin.com/in/virendra-patankar-104758144/)**
+- 📫 How to reach me **virendra11997@gmail.com**
 
 - ⚡ Fun fact **Everthing is fun fact happening arround the world**
-
-- :smile: lets share it and also be part of it [here](https://gist.github.com/veer11997).
-
-
 
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=veer11997&show_icons=true alt=veer11997 /> </p>
